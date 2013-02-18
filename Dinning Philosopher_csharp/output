@@ -1,0 +1,221 @@
+Note from rr:  I ran this and collected several seconds of output.
+You might find it helpful.  I believe I found a flaw in the algorithm.
+Can anyone verify it?
+
+
+
+WELCOME TO THE DINNING PHILOSOPHERS SIMULATION
+Press ENTER to start the simulation
+Joaquim    is thinnking.
+Socratis   is thinnking.
+Plato      is thinnking.
+Aristotle  is thinnking.
+Karl Marx  is thinnking.
+Plato      is hungry.
+Plato      pickup left & right chopstick.
+Plato      is eating.
+Joaquim    is hungry.
+Joaquim    pickup left & right chopstick.
+Joaquim    is eating.
+Socratis   is hungry.
+Aristotle  is hungry.
+Karl Marx  is hungry.
+Plato      putdown the chopsticks.
+Plato      is thinnking.
+Aristotle  pickup left & right chopstick.
+Aristotle  is eating.
+Joaquim    putdown the chopsticks.
+Joaquim    is thinnking.
+Socratis   pickup left & right chopstick.
+Socratis   is eating.
+Socratis   putdown the chopsticks.
+Socratis   is thinnking.
+Aristotle  putdown the chopsticks.
+Aristotle  is thinnking.
+Karl Marx  pickup left & right chopstick.
+Karl Marx  is eating.
+Karl Marx  putdown the chopsticks.
+Karl Marx  is thinnking.
+Plato      is hungry.
+Plato      pickup left & right chopstick.
+Plato      is eating.
+Joaquim    is hungry.
+Joaquim    pickup left & right chopstick.
+Joaquim    is eating.
+Socratis   is hungry.
+Karl Marx  is hungry.
+Aristotle  is hungry.
+Plato      putdown the chopsticks.
+Plato      is thinnking.
+Aristotle  pickup left & right chopstick.
+Aristotle  is eating.
+Joaquim    putdown the chopsticks.
+Joaquim    is thinnking.
+Socratis   pickup left & right chopstick.
+Socratis   is eating.
+Socratis   putdown the chopsticks.
+Socratis   is thinnking.
+Karl Marx  putdown the chopsticks.
+Karl Marx  is thinnking.
+Aristotle  putdown the chopsticks.
+Aristotle  is thinnking.
+Plato      is hungry.
+Plato      pickup left & right chopstick.
+Plato      is eating.
+Joaquim    is hungry.
+Joaquim    pickup left & right chopstick.
+Joaquim    is eating.
+Socratis   is hungry.
+Aristotle  is hungry.
+Karl Marx  is hungry.
+Plato      putdown the chopsticks.
+Plato      is thinnking.
+Aristotle  pickup left & right chopstick.
+Aristotle  is eating.
+Joaquim    putdown the chopsticks.
+Joaquim    is thinnking.
+Socratis   pickup left & right chopstick.
+Socratis   is eating.
+Socratis   putdown the chopsticks.
+Socratis   is thinnking.
+Aristotle  putdown the chopsticks.
+Aristotle  is thinnking.
+Karl Marx  pickup left & right chopstick.
+
+Philosopher    Eat Total
+Joaquim................3
+Socratis...............3
+Plato..................3
+Aristotle..............3
+Karl Marx..............1
+
+Karl Marx  is eating.
+Karl Marx  putdown the chopsticks.
+Karl Marx  is thinnking.
+Plato      is hungry.
+Plato      pickup left & right chopstick.
+Plato      is eating.
+Joaquim    is hungry.
+Joaquim    pickup left & right chopstick.
+Joaquim    is eating.
+Socratis   is hungry.
+Aristotle  is hungry.
+Karl Marx  is hungry.
+Plato      putdown the chopsticks.
+Plato      is thinnking.
+Aristotle  pickup left & right chopstick.
+Aristotle  is eating.
+Joaquim    putdown the chopsticks.
+Joaquim    is thinnking.
+Socratis   pickup left & right chopstick.
+Socratis   is eating.
+Socratis   putdown the chopsticks.
+Socratis   is thinnking.
+Aristotle  putdown the chopsticks.
+Aristotle  is thinnking.
+Karl Marx  pickup left & right chopstick.
+Karl Marx  is eating.
+Karl Marx  putdown the chopsticks.
+Karl Marx  is thinnking.
+Plato      is hungry.
+Plato      pickup left & right chopstick.
+Plato      is eating.
+Socratis   is hungry.
+Joaquim    is hungry.
+Joaquim    pickup left & right chopstick.
+Joaquim    is eating.
+Karl Marx  is hungry.
+Aristotle  is hungry.
+Plato      putdown the chopsticks.
+Plato      is thinnking.
+Aristotle  pickup left & right chopstick.
+Aristotle  is eating.
+Socratis   putdown the chopsticks.
+Socratis   is thinnking.
+Joaquim    putdown the chopsticks.
+Joaquim    is thinnking.
+Karl Marx  putdown the chopsticks.
+Karl Marx  is thinnking.
+Aristotle  putdown the chopsticks.
+Aristotle  is thinnking.
+Karl Marx  is hungry.
+Karl Marx  pickup left & right chopstick.
+Karl Marx  is eating.
+Joaquim    is hungry.
+Plato      is hungry.
+Plato      pickup left & right chopstick.
+Plato      is eating.
+Socratis   is hungry.
+Aristotle  is hungry.
+Karl Marx  putdown the chopsticks.
+Karl Marx  is thinnking.
+Joaquim    pickup left & right chopstick.
+Joaquim    is eating.
+Joaquim    putdown the chopsticks.
+Joaquim    is thinnking.
+Plato      putdown the chopsticks.
+Plato      is thinnking.
+Socratis   pickup left & right chopstick.
+Socratis   is eating.
+Aristotle  pickup left & right chopstick.
+Aristotle  is eating.
+Socratis   putdown the chopsticks.
+Socratis   is thinnking.
+Aristotle  putdown the chopsticks.
+Aristotle  is thinnking.
+Joaquim    is hungry.
+Joaquim    pickup left & right chopstick.
+Joaquim    is eating.
+
+Philosopher    Eat Total
+Joaquim................7
+Socratis...............5
+Plato..................6
+Aristotle..............6
+Karl Marx..............4
+
+Karl Marx  is hungry.
+Socratis   is hungry.
+Plato      is hungry.
+Plato      pickup left & right chopstick.
+Plato      is eating.
+Aristotle  is hungry.
+Joaquim    putdown the chopsticks.
+Joaquim    is thinnking.
+Karl Marx  pickup left & right chopstick.
+Karl Marx  is eating.
+Karl Marx  putdown the chopsticks.
+Karl Marx  is thinnking.
+Socratis   putdown the chopsticks.
+Socratis   is thinnking.
+Plato      putdown the chopsticks.
+Plato      is thinnking.
+Aristotle  putdown the chopsticks.
+Aristotle  is thinnking.
+Joaquim    is hungry.
+Joaquim    pickup left & right chopstick.
+Joaquim    is eating.
+Socratis   is hungry.
+Socratis   pickup left & right chopstick.
+Karl Marx  is hungry.
+Karl Marx  pickup left & right chopstick.
+Socratis   is eating.
+Karl Marx  is eating.
+Aristotle  is hungry.
+Plato      is hungry.
+Joaquim    putdown the chopsticks.
+Joaquim    is thinnking.
+Socratis   putdown the chopsticks.
+Socratis   is thinnking.
+Plato      pickup left & right chopstick.
+Plato      is eating.
+Karl Marx  putdown the chopsticks.
+Karl Marx  is thinnking.
+Aristotle  putdown the chopsticks.
+Aristotle  is thinnking.
+Joaquim    is hungry.
+Joaquim    pickup left & right chopstick.
+Joaquim    is eating.
+Plato      putdown the chopsticks.
+Plato      is thinnking.
+Karl Marx  is hungry.
