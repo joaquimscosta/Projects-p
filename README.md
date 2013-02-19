@@ -7,7 +7,7 @@ Joaquim Costa -- some school projects
 	- QuickSort
 * Operating System
 	- Dining Philosophers
-- Word Reverse 
+	- Word Reverse 
 * Database Systems
 	- Student Evaluation
 
